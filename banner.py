@@ -9,9 +9,9 @@ def toolBanner():
                    ┃┃┻┫┃┃┣━┣━┃┻┫┃┃┣━┃
                    ┗┻━┻┻━┻━┻━┻━┻┻━┻━┛
                 """ + Fore.RED + """
-            -------------------------------- 
-            |  Tenssens - OSINT Framework  |
-            --------------------------------
+          ---------------------------------------
+          |  Tenssens v1.0 - OSINT Framework    |
+          ---------------------------------------
 
                 Author : Md. Nur Habib
         Programmer & Linux System Administrator.

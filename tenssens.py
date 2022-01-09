@@ -1,3 +1,11 @@
+#! /usr/bin/env python3
+"""
+Author     : Md. Nur Habib
+GitHub     : https://github.com/thenurhabib
+Facebook   : https://web.facebook.com/thenurhab1b 
+HackerRank : https://www.hackerrank.com/thenurhabib
+"""
+
 # Import Modules
 import os
 import json
@@ -184,7 +192,7 @@ def robotstxt():
 banner.toolBanner()
 
 # Login
-credentials = ["username", "password"]
+credentials = ["username#tenssens", "password@tenssens"]
 username = input(Fore.GREEN + "Enter Login Username : ")
 password = getpass("Enter Login Password : ")
 if username == credentials[0] and password == credentials[1]:

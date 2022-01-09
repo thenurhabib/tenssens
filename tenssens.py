@@ -223,7 +223,7 @@ if username == credentials[0] and password == credentials[1]:
    02. MD5 Cracker      : MD5 Hash Cracker.
    03. Subdomain finder : Find Subdomain of any website.
    04. Site BuiltWith   : Find CMS of and All Technology.
-   05. DNS Lockup       : Get Information About DNS.
+   05. DNS Lookup       : Get Information About DNS.
    06. Admin Finder     : Find Admin Panel of Website.
    07. HTTP Header      : Get HTTP Header Information.
    08. IP Location      : Find Location From IP Address.

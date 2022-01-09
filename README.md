@@ -63,6 +63,7 @@ I'm a programmer and Linux System Administrator.
 ## Author
 
 ```yaml
+ Name       : Md. Nur Habib
  GitHub     : https://github.com/thenurhabib
  Facebook   : https://web.facebook.com?thenurhab1b 
  HackerRank : https://www.hackerrank.com/thenurhabib

@@ -19,8 +19,8 @@
  apt-get upgrade
  pkg install git
  pkg install python3
- pip install -r requirements.txt
  git clone https://github.com/thenurhabib/tenssens
+ pip install -r requirements.txt
  cd tenssens
  python3 tenssens.py
 
@@ -32,8 +32,8 @@
  apt-get upgrade
  apt install git
  apt install python3
- pip install -r requirements.txt
  git clone https://github.com/thenurhabib/tenssens
+ pip install -r requirements.txt
  cd tenssens
  python tenssens.py
 

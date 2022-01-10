@@ -20,8 +20,8 @@
  pkg install git
  pkg install python3
  git clone https://github.com/thenurhabib/tenssens
- pip install -r requirements.txt
  cd tenssens
+ pip install -r requirements.txt
  python3 tenssens.py
 
 ```
@@ -33,8 +33,8 @@
  apt install git
  apt install python3
  git clone https://github.com/thenurhabib/tenssens
- pip install -r requirements.txt
  cd tenssens
+ pip install -r requirements.txt
  python tenssens.py
 
 ```

@@ -11,6 +11,21 @@
 <br>
 <br>
 
+
+### Features 
+```yaml
+   01. Whois            : Get Website Whois Information.     
+   02. MD5 Cracker      : MD5 Hash Cracker.                   
+   03. Subdomain finder : Find Subdomain of any website.
+   04. Site BuiltWith   : Find CMS of and All Technology.
+   05. DNS Lockup       : Get Information About DNS.
+   06. Admin Finder     : Find Admin Panel of Website.
+   07. HTTP Header      : Get HTTP Header Information.
+   08. IP Location      : Find Location From IP Address.
+   09. Port Scan        : Network Port Scanner.
+   10. Robots.txt       : Get Robots txt File of any website.
+```
+
 ## Usage.
 ### <u> linux </u>
 
